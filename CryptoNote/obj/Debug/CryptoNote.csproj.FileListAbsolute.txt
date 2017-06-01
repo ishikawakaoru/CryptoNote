@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2013\Projects\CryptoNote\CryptoNote\bin\Debug\CryptoNote.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CryptoNote\CryptoNote\bin\Debug\CryptoNote.exe
+c:\users\admin\documents\visual studio 2013\Projects\CryptoNote\CryptoNote\bin\Debug\CryptoNote.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CryptoNote\CryptoNote\obj\Debug\CryptoNote.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CryptoNote\CryptoNote\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2013\Projects\CryptoNote\CryptoNote\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\CryptoNote\CryptoNote\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\CryptoNote\CryptoNote\obj\Debug\CryptoNote_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2013\Projects\CryptoNote\CryptoNote\obj\Debug\CryptoNote.g.resources
+c:\users\admin\documents\visual studio 2013\Projects\CryptoNote\CryptoNote\obj\Debug\CryptoNote.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\CryptoNote\CryptoNote\obj\Debug\CryptoNote.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\CryptoNote\CryptoNote\obj\Debug\CryptoNote.exe
+c:\users\admin\documents\visual studio 2013\Projects\CryptoNote\CryptoNote\obj\Debug\CryptoNote.pdb
