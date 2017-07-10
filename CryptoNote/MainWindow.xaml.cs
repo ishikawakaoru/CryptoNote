@@ -290,6 +290,69 @@ namespace CryptoNote
 
             OutputText.Text = "ГОТОВО!";
         }
+
+
+        //////////////////////////////////////////// CRYPTOTEXT ////////////////////////////////////////////////
+        public string tmptext;
+        public void CryptoText(bool mode)
+        {
+
+
+            if (mode == true)
+            {
+                string str = OutputText.Text;
+                char[] arr;
+
+                arr = str.ToCharArray();
+
+                // преобразуем символ в его код и отобразим
+
+                foreach (int i in arr)
+                {
+
+
+                    int c = i * (5); 
+                    char b2 = (char)c;
+
+                    // tmptext содержит кодированное сообщение
+                    tmptext += (b2).ToString();
+
+                }
+
+                IntegetText.Text = tmptext;
+            }
+            else
+            {
+                string str = IntegetText.Text;
+                char[] arr;
+
+                arr = str.ToCharArray();
+
+                foreach (int i in arr)
+                {
+                    int a = i/(5);
+                    
+                    char b2 = (char)a;
+                    OutputText.Text += b2.ToString();
+                }
+            }
+        }
+
+
+        private void CoderButton_Copy2_Click(object sender, RoutedEventArgs e)
+        {
+            tmptext = "";
+            CryptoText(true);
+        }
+
+        private void CoderButton_Copy3_Click(object sender, RoutedEventArgs e)
+        {
+            tmptext = "";
+            CryptoText(false);
+        }
+
+
+        /////////////////////////////////////////////////////////////////////////////////////////////////////////
      
 
 
